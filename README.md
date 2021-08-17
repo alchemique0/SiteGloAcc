@@ -1,2 +1,2 @@
 # SiteGloAcc
-Сайт создан по видеоурокам Glo-Academy
+Сайт создан по видеоурокам Glo-Academy /////
